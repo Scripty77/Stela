@@ -14,4 +14,4 @@ Confirma el Intercambio: Revisa los detalles de la transacción y confírmala a 
 📸 Vistazo a Stela
 ## Screenshots
 
-![App Screenshot](https://github.com/Scripty77/Stela/blob/main/src/assets/Stela-Image-preview.png)
+![App Screenshot](https://github.com/Scripty77/Stela/blob/main/src/assets/Stelar-preview.jpeg)
