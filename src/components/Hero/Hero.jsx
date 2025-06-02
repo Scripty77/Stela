@@ -77,6 +77,10 @@ function Hero() {
           </motion.div>
         </div>
       </div>
+      {/* Texto al final */}
+      <p className="text-white mt-2">
+        Created by Raiku.Dev
+      </p>
     </div>
   );
 }
