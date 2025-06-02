@@ -1,16 +1,17 @@
-<<<<<<< HEAD
-# Stela
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Stela🌌  - Concepto De Una Plataforma de Intercambio de Criptomonedas Descentralizada
+¡Bienvenido a Stela! El futuro del intercambio de criptomonedas está aquí, ofreciéndote una experiencia descentralizada, segura y eficiente directamente desde tu navegador. Desarrollada por Raiku, Stela Cuenta Con Un Sistema De LeardBoard En El Cual Mensualmente Se Repartiran Un Porcentaje De Las Comisiones Obtenidas Entre las 15 Wallets Con Mayot Volumen 
 
-Currently, two official plugins are available:
+---
+🚀 Empezando con Stela
+Para comenzar a usar Stela, simplemente visita nuestra aplicación descentralizada en tu navegador compatible con Web3 (como Brave, Chrome con MetaMask, etc.).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Conecta tu Monedero: Haz clic en el botón "Conectar Monedero" y elige tu opción preferida (por ejemplo, MetaMask).
+Selecciona tus Activos: Elige las criptomonedas que deseas intercambiar en los campos "De" y "A".
+Confirma el Intercambio: Revisa los detalles de la transacción y confírmala a través de tu monedero. ¡Listo!
 
-## Expanding the ESLint configuration
+---
+📸 Vistazo a Stela
+## Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> afd274a (Initial commit)
+![App Screenshot](https://imgur.com/gallery/tainted-by-huleeb-jcYkXOY)
